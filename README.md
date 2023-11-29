@@ -1,8 +1,6 @@
 Simple metors game using pygame. 
 
-Avoid the flying rocks and shot to explode the rocks.
-
-Collect the pills to gain health.
+Avoid the flying rocks and shot to explode the rocks. Collect the pills to gain health.
 
 Space to shot, arrows to move.
 
